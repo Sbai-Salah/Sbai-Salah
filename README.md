@@ -12,7 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / C++ / Java / PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbai-Salah)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah)  
 
