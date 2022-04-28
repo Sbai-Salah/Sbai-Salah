@@ -14,5 +14,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / C++ / Java / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah&count_private=true)  
 
