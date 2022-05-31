@@ -7,7 +7,16 @@ From small things like building websites and apps and findind creative solution 
 Skills: VUE JS / REACT / JS / HTML / CSS / Python / C++ / Java / PHP
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sbai-Salah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sbai-salah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salah.mhsb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/salah.mhsb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/__7salah__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sbai-salah.github.io/website/)  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sbai-salah.github.io/website/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbai-salah/)
+
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/salah.mhsb/)
+
+[![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salah.mhsb/)
+
+[![codepen](https://img.shields.io/badge/codePen-111111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/__7salah__)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbai-Salah&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
