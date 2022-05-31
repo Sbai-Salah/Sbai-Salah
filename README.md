@@ -25,3 +25,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / C++ / Java / PHP
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah&count_private=true)  
 
+### Visitors counter 👁️‍:
+![Visitor Count](https://profile-counter.glitch.me/Sbai-Salah/count.svg)
