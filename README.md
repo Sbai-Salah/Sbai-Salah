@@ -21,9 +21,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Python / C++ / Java / PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbai-Salah&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true&theme=radical&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah&count_private=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sbai-Salah&theme=radical&count_private=true)  
 
 ### Visitors counter 👁️‍:
 ![Visitor Count](https://profile-counter.glitch.me/Sbai-Salah/count.svg)
