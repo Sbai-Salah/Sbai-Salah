@@ -1,4 +1,4 @@
-![I'm a computer science student](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
+![I'm a computer science student](https://media.licdn.com/dms/image/D4E16AQFMfI8FjLC35w/profile-displaybackgroundimage-shrink_350_1400/0/1690281636446?e=1695859200&v=beta&t=JjW-FzuFSeruSZmjBcf3BIK1GmYcFY_GLn7fayfCzLI)
 
 ### Hi there 👋, Sbai Salah
 #### I'm a computer science student
