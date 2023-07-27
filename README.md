@@ -1,4 +1,4 @@
-![I'm a computer science student](https://media.licdn.com/dms/image/D4E16AQFMfI8FjLC35w/profile-displaybackgroundimage-shrink_350_1400/0/1690281636446?e=1695859200&v=beta&t=JjW-FzuFSeruSZmjBcf3BIK1GmYcFY_GLn7fayfCzLI)
+![I'm a computer science student](https://github.com/Sbai-Salah/Git-Commands/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
