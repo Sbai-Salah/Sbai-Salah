@@ -7,7 +7,24 @@
   <a href="https://www.linkedin.com/in/sbai-salah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+
+ <a href="https://dev.to/salah_7">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
+  </a>
+   <a href="https://medium.com/@sbaiusalah">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  
+   <a href="https://codepen.io/__7salah__/">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
+     <a href="https://leetcode.com/Sbai-Salah/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Salah-Sbai">
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="RG Badge"/>
+  </a>
+   
 </div>
 
 
