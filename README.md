@@ -18,15 +18,21 @@
    <a href="https://codepen.io/__7salah__/">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
-     <a href="https://leetcode.com/Sbai-Salah/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-  </a>
   <a href="https://www.researchgate.net/profile/Salah-Sbai">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="RG Badge"/>
   </a>
    
 </div>
+<h2>CODING PLAYGROUNDS 🛡️⚔️ </h2>
+<div align="center"> 
+  <a href="https://leetcode.com/Sbai-Salah/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
 
+ <a href="https://www.codingame.com/profile/da826569c882d871cf466ae7f4c6d2ce3709054">
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodingGame Badge"/>
+  </a>
+</div>
 
 <h1>
   hey there
