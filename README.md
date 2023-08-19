@@ -62,6 +62,8 @@ From small things like building websites and apps and findind creative solution 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> 
 
+  ![Snake animation](https://github.com/Sbai-Salah/Sbai-Salah/blob/main/github-contribution-grid-snake.svg)
+
 ---
 
 ### :fire: My Stats :
