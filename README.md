@@ -68,13 +68,19 @@ From small things like building websites and apps and findind creative solution 
 
 ### :fire: My Stats :
 
+
+<div style="display: flex; justify-content: center;align-items: center;">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sbai-Salah&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div>
 
+<div style="display: flex; justify-content: center;align-items: center;">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sbai-Salah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sbai-Salah&show_icons=true&theme=radical&count_private=true)  
+
+</div>
 
 ### Visitors counter 👁️‍:
 ![Visitor Count](https://profile-counter.glitch.me/Sbai-Salah/count.svg)
